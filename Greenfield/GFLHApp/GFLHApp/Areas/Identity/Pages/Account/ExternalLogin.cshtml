@@ -27,6 +27,9 @@
     <div class="col-md-4"> @* Starts a layout container for this section. *@
  @* ----- Form Setup ----- *@
         <form asp-page-handler="Confirmation" asp-route-returnUrl="@Model.ReturnUrl" method="post"> @* Starts the form that submits this page's user input. *@
+            <input asp-for="ProviderDisplayName" type="hidden" />
+            <input asp-for="LoginProvider" type="hidden" />
+            <input asp-for="ProviderKey" type="hidden" />
  @* ----- Status Messages ----- *@
             <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div> @* Shows page-level validation messages. *@
  @* ----- Styling Section ----- *@

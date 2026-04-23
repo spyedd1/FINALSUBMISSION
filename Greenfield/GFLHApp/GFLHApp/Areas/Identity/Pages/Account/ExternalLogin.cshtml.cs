@@ -60,10 +60,17 @@ namespace GFLHApp.Areas.Identity.Pages.Account // Places this page model in the 
         [BindProperty] // Binds posted form values to this property.
         public InputModel Input { get; set; } // Defines the form fields posted by this page.
 
+        [BindProperty]
+        public string LoginProvider { get; set; }
+
+        [BindProperty]
+        public string ProviderKey { get; set; }
+
         /// <summary>
         ///     This API supports the ASP.NET Core Identity default UI infrastructure and is not intended to be used
         ///     directly from your code. This API may change or be removed in future releases.
         /// </summary>
+        [BindProperty]
         public string ProviderDisplayName { get; set; } // Performs this page model step for the current request.
 
         /// <summary>
@@ -149,6 +156,8 @@ namespace GFLHApp.Areas.Identity.Pages.Account // Places this page model in the 
                 // If the user does not have an account, then ask the user to create an account.
                 ReturnUrl = returnUrl; // Sets ReturnUrl for the current page flow.
                 ProviderDisplayName = info.ProviderDisplayName; // Sets ProviderDisplayName for the current page flow.
+                LoginProvider = info.LoginProvider;
+                ProviderKey = info.ProviderKey;
                 // ----- Email Logic -----
                 if (info.Principal.HasClaim(c => c.Type == ClaimTypes.Email)) // Checks the condition before continuing this page flow.
                 {
@@ -170,11 +179,23 @@ namespace GFLHApp.Areas.Identity.Pages.Account // Places this page model in the 
             // Get the information about the user from the external login provider
             // ----- Injected Services -----
             var info = await _signInManager.GetExternalLoginInfoAsync(); // Handles external provider sign-in flow.
+            UserLoginInfo loginInfo;
             if (info == null) // Checks the condition before continuing this page flow.
             {
-                ErrorMessage = "Error loading external login information during confirmation."; // Sets ErrorMessage for the current page flow.
-                // ----- Redirects and Results -----
-                return RedirectToPage("./Login", new { ReturnUrl = returnUrl }); // Redirects the browser after completing this step.
+                if (!string.IsNullOrWhiteSpace(LoginProvider) && !string.IsNullOrWhiteSpace(ProviderKey))
+                {
+                    loginInfo = new UserLoginInfo(LoginProvider, ProviderKey, ProviderDisplayName ?? LoginProvider);
+                }
+                else
+                {
+                    ErrorMessage = "Error loading external login information during confirmation."; // Sets ErrorMessage for the current page flow.
+                    // ----- Redirects and Results -----
+                    return RedirectToPage("./Login", new { ReturnUrl = returnUrl }); // Redirects the browser after completing this step.
+                }
+            }
+            else
+            {
+                loginInfo = info;
             }
 
             // ----- Validation Logic -----
@@ -190,10 +211,10 @@ namespace GFLHApp.Areas.Identity.Pages.Account // Places this page model in the 
                 var result = await _userManager.CreateAsync(user); // Runs the Identity operation asynchronously.
                 if (result.Succeeded) // Checks the condition before continuing this page flow.
                 {
-                    result = await _userManager.AddLoginAsync(user, info); // Writes account flow information to the application log.
+                    result = await _userManager.AddLoginAsync(user, loginInfo); // Writes account flow information to the application log.
                     if (result.Succeeded) // Checks the condition before continuing this page flow.
                     {
-                        _logger.LogInformation("User created an account using {Name} provider.", info.LoginProvider); // Writes account flow information to the application log.
+                        _logger.LogInformation("User created an account using {Name} provider.", loginInfo.LoginProvider); // Writes account flow information to the application log.
 
                         var userId = await _userManager.GetUserIdAsync(user); // Runs the Identity operation asynchronously.
                         var code = await _userManager.GenerateEmailConfirmationTokenAsync(user); // Generates an Identity token for an account action.
@@ -218,7 +239,7 @@ namespace GFLHApp.Areas.Identity.Pages.Account // Places this page model in the 
                         }
 
                         // ----- Injected Services -----
-                        await _signInManager.SignInAsync(user, isPersistent: false, info.LoginProvider); // Signs the user in after the account action.
+                        await _signInManager.SignInAsync(user, isPersistent: false, loginInfo.LoginProvider); // Signs the user in after the account action.
                         // ----- Redirects and Results -----
                         return LocalRedirect(returnUrl); // Redirects the browser after completing this step.
                     }
@@ -230,7 +251,9 @@ namespace GFLHApp.Areas.Identity.Pages.Account // Places this page model in the 
                 }
             }
 
-            ProviderDisplayName = info.ProviderDisplayName; // Sets ProviderDisplayName for the current page flow.
+            ProviderDisplayName = info?.ProviderDisplayName ?? ProviderDisplayName ?? loginInfo.ProviderDisplayName; // Sets ProviderDisplayName for the current page flow.
+            LoginProvider = loginInfo.LoginProvider;
+            ProviderKey = loginInfo.ProviderKey;
             // ----- Redirects and Results -----
             ReturnUrl = returnUrl; // Sets ReturnUrl for the current page flow.
             return Page(); // Renders the current Razor Page.
