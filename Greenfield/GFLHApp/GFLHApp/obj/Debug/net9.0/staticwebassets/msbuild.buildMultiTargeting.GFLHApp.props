@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\GFLHApp.props" />
-</Project>
