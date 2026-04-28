@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{544975E7-D2B9-47CA-A87B-51E2E095FB97}|GFLHApp\\GFLHApp.csproj|c:\\users\\digi-t-y2-10\\documents\\github\\finalsubmission\\task2_gflhsolution_ll-000020924_gallagher_j\\gflhapp\\gflhapp\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{544975E7-D2B9-47CA-A87B-51E2E095FB97}|GFLHApp\\GFLHApp.csproj|solutionrelative:gflhapp\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544975E7-D2B9-47CA-A87B-51E2E095FB97}|GFLHApp\\GFLHApp.csproj|c:\\users\\digi-t-y2-10\\documents\\github\\finalsubmission\\task2_gflhsolution_ll-000020924_gallagher_j\\gflhapp\\gflhapp\\controllers\\producerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544975E7-D2B9-47CA-A87B-51E2E095FB97}|GFLHApp\\GFLHApp.csproj|solutionrelative:gflhapp\\controllers\\producerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544975E7-D2B9-47CA-A87B-51E2E095FB97}|GFLHApp\\GFLHApp.csproj|c:\\users\\digi-t-y2-10\\documents\\github\\finalsubmission\\task2_gflhsolution_ll-000020924_gallagher_j\\gflhapp\\gflhapp\\controllers\\producerorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544975E7-D2B9-47CA-A87B-51E2E095FB97}|GFLHApp\\GFLHApp.csproj|solutionrelative:gflhapp\\controllers\\producerorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544975E7-D2B9-47CA-A87B-51E2E095FB97}|GFLHApp\\GFLHApp.csproj|c:\\users\\digi-t-y2-10\\documents\\github\\finalsubmission\\task2_gflhsolution_ll-000020924_gallagher_j\\gflhapp\\gflhapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{544975E7-D2B9-47CA-A87B-51E2E095FB97}|GFLHApp\\GFLHApp.csproj|solutionrelative:gflhapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{544975E7-D2B9-47CA-A87B-51E2E095FB97}|GFLHApp\\GFLHApp.csproj|c:\\users\\digi-t-y2-10\\documents\\github\\finalsubmission\\task2_gflhsolution_ll-000020924_gallagher_j\\gflhapp\\gflhapp\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{544975E7-D2B9-47CA-A87B-51E2E095FB97}|GFLHApp\\GFLHApp.csproj|solutionrelative:gflhapp\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -119,10 +135,6 @@
       "RelativeMoniker": "D:0:0:{544975E7-D2B9-47CA-A87B-51E2E095FB97}|GFLHApp\\GFLHApp.csproj|solutionrelative:gflhapp\\wwwroot\\images\\products\\broccoli.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{544975E7-D2B9-47CA-A87B-51E2E095FB97}|GFLHApp\\GFLHApp.csproj|c:\\users\\digi-t-y2-10\\documents\\github\\finalsubmission\\task2_gflhsolution_ll-000020924_gallagher_j\\gflhapp\\gflhapp\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{544975E7-D2B9-47CA-A87B-51E2E095FB97}|GFLHApp\\GFLHApp.csproj|solutionrelative:gflhapp\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{544975E7-D2B9-47CA-A87B-51E2E095FB97}|GFLHApp\\GFLHApp.csproj|c:\\users\\digi-t-y2-10\\documents\\github\\finalsubmission\\task2_gflhsolution_ll-000020924_gallagher_j\\gflhapp\\gflhapp\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{544975E7-D2B9-47CA-A87B-51E2E095FB97}|GFLHApp\\GFLHApp.csproj|solutionrelative:gflhapp\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -143,16 +155,8 @@
       "RelativeMoniker": "D:0:0:{544975E7-D2B9-47CA-A87B-51E2E095FB97}|GFLHApp\\GFLHApp.csproj|solutionrelative:gflhapp\\views\\admindashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{544975E7-D2B9-47CA-A87B-51E2E095FB97}|GFLHApp\\GFLHApp.csproj|c:\\users\\digi-t-y2-10\\documents\\github\\finalsubmission\\task2_gflhsolution_ll-000020924_gallagher_j\\gflhapp\\gflhapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{544975E7-D2B9-47CA-A87B-51E2E095FB97}|GFLHApp\\GFLHApp.csproj|solutionrelative:gflhapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{544975E7-D2B9-47CA-A87B-51E2E095FB97}|GFLHApp\\GFLHApp.csproj|c:\\users\\digi-t-y2-10\\documents\\github\\finalsubmission\\task2_gflhsolution_ll-000020924_gallagher_j\\gflhapp\\gflhapp\\controllers\\producerdashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{544975E7-D2B9-47CA-A87B-51E2E095FB97}|GFLHApp\\GFLHApp.csproj|solutionrelative:gflhapp\\controllers\\producerdashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{544975E7-D2B9-47CA-A87B-51E2E095FB97}|GFLHApp\\GFLHApp.csproj|c:\\users\\digi-t-y2-10\\documents\\github\\finalsubmission\\task2_gflhsolution_ll-000020924_gallagher_j\\gflhapp\\gflhapp\\controllers\\producerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{544975E7-D2B9-47CA-A87B-51E2E095FB97}|GFLHApp\\GFLHApp.csproj|solutionrelative:gflhapp\\controllers\\producerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{544975E7-D2B9-47CA-A87B-51E2E095FB97}|GFLHApp\\GFLHApp.csproj|c:\\users\\digi-t-y2-10\\documents\\github\\finalsubmission\\task2_gflhsolution_ll-000020924_gallagher_j\\gflhapp\\gflhapp\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -230,72 +234,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Products.cs",
-              "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Models\\Products.cs",
-              "RelativeDocumentMoniker": "GFLHApp\\Models\\Products.cs",
-              "ToolTip": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Models\\Products.cs",
-              "RelativeToolTip": "GFLHApp\\Models\\Products.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAD+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T12:22:21.169Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Producers.cs",
-              "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Models\\Producers.cs",
-              "RelativeDocumentMoniker": "GFLHApp\\Models\\Producers.cs",
-              "ToolTip": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Models\\Producers.cs",
-              "RelativeToolTip": "GFLHApp\\Models\\Producers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T12:22:19.569Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProducerOrders.cs",
-              "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Models\\ProducerOrders.cs",
-              "RelativeDocumentMoniker": "GFLHApp\\Models\\ProducerOrders.cs",
-              "ToolTip": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Models\\ProducerOrders.cs",
-              "RelativeToolTip": "GFLHApp\\Models\\ProducerOrders.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T12:22:18.554Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Orders.cs",
-              "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Models\\Orders.cs",
-              "RelativeDocumentMoniker": "GFLHApp\\Models\\Orders.cs",
-              "ToolTip": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Models\\Orders.cs",
-              "RelativeToolTip": "GFLHApp\\Models\\Orders.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAuwCoAAADNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T12:21:39.98Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HomeIndexViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Models\\HomeIndexViewModel.cs",
-              "RelativeDocumentMoniker": "GFLHApp\\Models\\HomeIndexViewModel.cs",
-              "ToolTip": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Models\\HomeIndexViewModel.cs",
-              "RelativeToolTip": "GFLHApp\\Models\\HomeIndexViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T12:21:38.694Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "OrderProducts.cs",
               "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Models\\OrderProducts.cs",
               "RelativeDocumentMoniker": "GFLHApp\\Models\\OrderProducts.cs",
@@ -307,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "ContactPageViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Models\\ContactPageViewModel.cs",
               "RelativeDocumentMoniker": "GFLHApp\\Models\\ContactPageViewModel.cs",
@@ -319,7 +262,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "ContactInquiry.cs",
               "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Models\\ContactInquiry.cs",
               "RelativeDocumentMoniker": "GFLHApp\\Models\\ContactInquiry.cs",
@@ -331,7 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "BasketProducts.cs",
               "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Models\\BasketProducts.cs",
               "RelativeDocumentMoniker": "GFLHApp\\Models\\BasketProducts.cs",
@@ -343,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Basket.cs",
               "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Models\\Basket.cs",
               "RelativeDocumentMoniker": "GFLHApp\\Models\\Basket.cs",
@@ -355,7 +298,120 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GFLHApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GFLHApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAIAwwCoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-20T13:38:18.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProducersController.cs",
+              "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Controllers\\ProducersController.cs",
+              "RelativeDocumentMoniker": "GFLHApp\\Controllers\\ProducersController.cs",
+              "ToolTip": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Controllers\\ProducersController.cs",
+              "RelativeToolTip": "GFLHApp\\Controllers\\ProducersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T15:07:54.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "GFLHApp\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "GFLHApp\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAIwKwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-20T12:08:57.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "GFLHApp\\Models\\Products.cs",
+              "ToolTip": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Models\\Products.cs",
+              "RelativeToolTip": "GFLHApp\\Models\\Products.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T12:22:21.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProducerOrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Controllers\\ProducerOrdersController.cs",
+              "RelativeDocumentMoniker": "GFLHApp\\Controllers\\ProducerOrdersController.cs",
+              "ToolTip": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Controllers\\ProducerOrdersController.cs",
+              "RelativeToolTip": "GFLHApp\\Controllers\\ProducerOrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T10:11:38.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeIndexViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Models\\HomeIndexViewModel.cs",
+              "RelativeDocumentMoniker": "GFLHApp\\Models\\HomeIndexViewModel.cs",
+              "ToolTip": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Models\\HomeIndexViewModel.cs",
+              "RelativeToolTip": "GFLHApp\\Models\\HomeIndexViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T12:21:38.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Models\\Orders.cs",
+              "RelativeDocumentMoniker": "GFLHApp\\Models\\Orders.cs",
+              "ToolTip": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Models\\Orders.cs",
+              "RelativeToolTip": "GFLHApp\\Models\\Orders.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwCoAAADNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T12:21:39.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProducerOrders.cs",
+              "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Models\\ProducerOrders.cs",
+              "RelativeDocumentMoniker": "GFLHApp\\Models\\ProducerOrders.cs",
+              "ToolTip": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Models\\ProducerOrders.cs",
+              "RelativeToolTip": "GFLHApp\\Models\\ProducerOrders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T12:22:18.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Producers.cs",
+              "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Models\\Producers.cs",
+              "RelativeDocumentMoniker": "GFLHApp\\Models\\Producers.cs",
+              "ToolTip": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Models\\Producers.cs",
+              "RelativeToolTip": "GFLHApp\\Models\\Producers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T12:22:19.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "AboutViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Models\\AboutViewModel.cs",
               "RelativeDocumentMoniker": "GFLHApp\\Models\\AboutViewModel.cs",
@@ -367,7 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Program.cs",
               "RelativeDocumentMoniker": "GFLHApp\\Program.cs",
@@ -379,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "Users.cshtml",
               "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Views\\AdminDashboard\\Users.cshtml",
               "RelativeDocumentMoniker": "GFLHApp\\Views\\AdminDashboard\\Users.cshtml",
@@ -391,7 +447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "GFLHApp\\Views\\Home\\Index.cshtml",
@@ -403,7 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Views\\Orders\\Create.cshtml",
               "RelativeDocumentMoniker": "GFLHApp\\Views\\Orders\\Create.cshtml",
@@ -415,7 +471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "BasketProductsController.cs",
               "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Controllers\\BasketProductsController.cs",
               "RelativeDocumentMoniker": "GFLHApp\\Controllers\\BasketProductsController.cs",
@@ -427,7 +483,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Views\\Producers\\Create.cshtml",
               "RelativeDocumentMoniker": "GFLHApp\\Views\\Producers\\Create.cshtml",
@@ -439,7 +495,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "OrdersController.cs",
               "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Controllers\\OrdersController.cs",
               "RelativeDocumentMoniker": "GFLHApp\\Controllers\\OrdersController.cs",
@@ -451,7 +507,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Views\\Producers\\Details.cshtml",
               "RelativeDocumentMoniker": "GFLHApp\\Views\\Producers\\Details.cshtml",
@@ -463,7 +519,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Views\\Producers\\Delete.cshtml",
               "RelativeDocumentMoniker": "GFLHApp\\Views\\Producers\\Delete.cshtml",
@@ -475,7 +531,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "20260421180025_imagepath.cs",
               "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Data\\Migrations\\20260421180025_imagepath.cs",
               "RelativeDocumentMoniker": "GFLHApp\\Data\\Migrations\\20260421180025_imagepath.cs",
@@ -487,7 +543,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Views\\Orders\\Index.cshtml",
               "RelativeDocumentMoniker": "GFLHApp\\Views\\Orders\\Index.cshtml",
@@ -499,7 +555,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Views\\Baskets\\Index.cshtml",
               "RelativeDocumentMoniker": "GFLHApp\\Views\\Baskets\\Index.cshtml",
@@ -511,7 +567,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "20260414140007_pc.cs",
               "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Data\\Migrations\\20260414140007_pc.cs",
               "RelativeDocumentMoniker": "GFLHApp\\Data\\Migrations\\20260414140007_pc.cs",
@@ -523,7 +579,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "BasketsController.cs",
               "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Controllers\\BasketsController.cs",
               "RelativeDocumentMoniker": "GFLHApp\\Controllers\\BasketsController.cs",
@@ -535,7 +591,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Views\\Producers\\Index.cshtml",
               "RelativeDocumentMoniker": "GFLHApp\\Views\\Producers\\Index.cshtml",
@@ -547,7 +603,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "GFLHApp\\Controllers\\HomeController.cs",
@@ -559,7 +615,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "AdminDashboardController.cs",
               "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Controllers\\AdminDashboardController.cs",
               "RelativeDocumentMoniker": "GFLHApp\\Controllers\\AdminDashboardController.cs",
@@ -571,7 +627,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 55,
               "Title": "20260422120258_college5.cs",
               "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Data\\Migrations\\20260422120258_college5.cs",
               "RelativeDocumentMoniker": "GFLHApp\\Data\\Migrations\\20260422120258_college5.cs",
@@ -583,7 +639,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 32,
               "Title": "broccoli.jpg",
               "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\wwwroot\\images\\products\\broccoli.jpg",
               "RelativeDocumentMoniker": "GFLHApp\\wwwroot\\images\\products\\broccoli.jpg",
@@ -594,7 +650,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "_AdminLayout.cshtml",
               "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Views\\Shared\\_AdminLayout.cshtml",
               "RelativeDocumentMoniker": "GFLHApp\\Views\\Shared\\_AdminLayout.cshtml",
@@ -606,7 +662,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 37,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Views\\AdminDashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "GFLHApp\\Views\\AdminDashboard\\Index.cshtml",
@@ -618,19 +674,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Views\\Products\\Index.cshtml",
-              "RelativeDocumentMoniker": "GFLHApp\\Views\\Products\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Views\\Products\\Index.cshtml",
-              "RelativeToolTip": "GFLHApp\\Views\\Products\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0CAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-20T12:08:57.927Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "AccessDenied.cshtml",
               "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
               "RelativeDocumentMoniker": "GFLHApp\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
@@ -642,7 +686,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "SeedData.cs",
               "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Data\\SeedData.cs",
               "RelativeDocumentMoniker": "GFLHApp\\Data\\SeedData.cs",
@@ -654,7 +698,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "site.js",
               "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "GFLHApp\\wwwroot\\js\\site.js",
@@ -666,19 +710,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "GFLHApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "GFLHApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAFYAAAAAAAAAAIAwwGoAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-20T13:38:18.204Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "ProducerDashboardController.cs",
               "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Controllers\\ProducerDashboardController.cs",
               "RelativeDocumentMoniker": "GFLHApp\\Controllers\\ProducerDashboardController.cs",
@@ -690,19 +722,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "ProducersController.cs",
-              "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Controllers\\ProducersController.cs",
-              "RelativeDocumentMoniker": "GFLHApp\\Controllers\\ProducersController.cs",
-              "ToolTip": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Controllers\\ProducersController.cs",
-              "RelativeToolTip": "GFLHApp\\Controllers\\ProducersController.cs",
-              "ViewState": "AgIAAMIAAAAAAAAAAAAuwNgAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T15:07:54.422Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "Register.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "GFLHApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
@@ -714,7 +734,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "ConfirmEmail.cshtml",
               "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
               "RelativeDocumentMoniker": "GFLHApp\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
@@ -726,7 +746,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "ConfirmEmailChange.cshtml",
               "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml",
               "RelativeDocumentMoniker": "GFLHApp\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml",
@@ -738,7 +758,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "ForgotPassword.cshtml",
               "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
               "RelativeDocumentMoniker": "GFLHApp\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
@@ -750,7 +770,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "GFLHApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
@@ -762,7 +782,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "GFLHApp\\wwwroot\\css\\site.css",
@@ -774,7 +794,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Views\\Products\\Details.cshtml",
               "RelativeDocumentMoniker": "GFLHApp\\Views\\Products\\Details.cshtml",
@@ -786,7 +806,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Views\\Products\\Create.cshtml",
               "RelativeDocumentMoniker": "GFLHApp\\Views\\Products\\Create.cshtml",
@@ -798,7 +818,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 52,
               "Title": "ProducersIndex.js",
               "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\wwwroot\\js\\pages\\producers\\ProducersIndex.js",
               "RelativeDocumentMoniker": "GFLHApp\\wwwroot\\js\\pages\\producers\\ProducersIndex.js",
@@ -810,7 +830,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "ProducersEdit.css",
               "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\wwwroot\\css\\pages\\producers\\ProducersEdit.css",
               "RelativeDocumentMoniker": "GFLHApp\\wwwroot\\css\\pages\\producers\\ProducersEdit.css",
@@ -822,7 +842,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 50,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Views\\Products\\Delete.cshtml",
               "RelativeDocumentMoniker": "GFLHApp\\Views\\Products\\Delete.cshtml",
@@ -834,7 +854,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 49,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Views\\Products\\Edit.cshtml",
               "RelativeDocumentMoniker": "GFLHApp\\Views\\Products\\Edit.cshtml",
@@ -846,7 +866,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "ProducersDelete.css",
               "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\wwwroot\\css\\pages\\producers\\ProducersDelete.css",
               "RelativeDocumentMoniker": "GFLHApp\\wwwroot\\css\\pages\\producers\\ProducersDelete.css",
@@ -858,7 +878,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 54,
               "Title": "ProducersIndex.css",
               "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\wwwroot\\css\\pages\\producers\\ProducersIndex.css",
               "RelativeDocumentMoniker": "GFLHApp\\wwwroot\\css\\pages\\producers\\ProducersIndex.css",
@@ -870,7 +890,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 53,
               "Title": "ProducersEdit.js",
               "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\wwwroot\\js\\pages\\producers\\ProducersEdit.js",
               "RelativeDocumentMoniker": "GFLHApp\\wwwroot\\js\\pages\\producers\\ProducersEdit.js",
@@ -882,7 +902,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 51,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Digi-T-Y2-10\\Documents\\GitHub\\FINALSUBMISSION\\Task2_GFLHSolution_LL-000020924_Gallagher_J\\GFLHApp\\GFLHApp\\Views\\Producers\\Edit.cshtml",
               "RelativeDocumentMoniker": "GFLHApp\\Views\\Producers\\Edit.cshtml",
