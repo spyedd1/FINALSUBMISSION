@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GFLHApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d06f2061d3793275d2b1ab95d8f5f6cf4029971")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5dc0ca56e56f4299fd90ea121ba11086ef8b6fbd")]
 [assembly: System.Reflection.AssemblyProductAttribute("GFLHApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GFLHApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
